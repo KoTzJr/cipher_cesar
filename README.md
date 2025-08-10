@@ -33,5 +33,6 @@ Essa técnica é simples, porém foi extremamente eficaz na época. Hoje, é usa
 - Jogos e enigmas
 - Criação de mensagens secretas simples
 - Ensino de lógica e programação
-- 
+
+
 > ✍️ *Este projeto tem fins educacionais e demonstra como a Cifra de César pode ser aplicada graficamente e por código.*
